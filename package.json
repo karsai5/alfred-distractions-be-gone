@@ -1,0 +1,18 @@
+{
+  "name": "alfred-distractions-be-gone",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "alfy": "^0.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "author": "",
+  "license": "ISC"
+}
