@@ -35,10 +35,6 @@
 			</dict>
 		</array>
 	</dict>
-	<key>createdby</key>
-	<string></string>
-	<key>description</key>
-	<string></string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -60,8 +56,6 @@ end alfred_script</string>
 			<string>alfred.workflow.action.applescript</string>
 			<key>uid</key>
 			<string>D55B0351-415E-493D-B9DB-B2F859E4BB82</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -132,7 +126,5 @@ end alfred_script</string>
 			<integer>155</integer>
 		</dict>
 	</dict>
-	<key>webaddress</key>
-	<string></string>
 </dict>
 </plist>
